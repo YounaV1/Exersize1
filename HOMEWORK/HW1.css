@@ -1,0 +1,43 @@
+body
+{background-color:cornsilk;
+    margin: 0px;
+}
+header
+{
+    background-color:cadetblue;
+    background-image: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+    linear-gradient(127deg, rgba(16, 116, 16, 0.8), rgba(0,255,0,0) 70.71%),
+    linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 30px;
+    font-size: 30px;
+    text-align: center;
+    font-family: "Helvetica";
+}
+.aboutme
+{
+    text-align: center;
+}
+.headertitle
+{
+    color:cornsilk;
+}
+ul {
+    list-style-type: none;
+}
+img
+{
+    float: right;
+    border-radius: 30px;
+}
+section
+{
+    font-size: 40px;
+    font-family: "Helvetica" ;
+}
+aside
+{
+    font-size: 40px;
+    font-family: "Helvetica";
+}
