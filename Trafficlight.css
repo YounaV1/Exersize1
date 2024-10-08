@@ -1,0 +1,21 @@
+img
+{
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#green 
+{
+    float: center;
+}
+#yellow
+{
+    float: center;
+}
+#red
+{
+    float: center;
+}
