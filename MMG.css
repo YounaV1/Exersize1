@@ -1,0 +1,35 @@
+body
+{
+    background-color: darkolivegreen;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    font-family: "helvetica";
+}
+header
+{
+    text-align: center;
+    font-size: 40px;
+    background-color: lightblue;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+p
+{
+    margin: 0;
+    padding: 0 0 3px 0;
+}
+.game
+{
+    text-align: center;
+    background-color: darkcyan;
+    padding: 20px 0 0 0;
+    margin: 120px 100px 100px 100px;
+}
+footer
+{
+    background-color: lightblue;
+    text-align: center;
+    font-size: 30px;
+}
